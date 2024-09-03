@@ -1,9 +1,10 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4406553&assignment_repo_type=AssignmentRepo)
 # Project 3 | **Flicks** by PIE LLC
 
 **Flicks** - A movie website commissioned by PIE LLC
 
 Time spent: 50 hours spent in total
+
+Future Improvements: adjust frontend to be closely to Figma desired design provided
 
 ## User Stories
 
