@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <main
+      class="main"
+    >
+      <test-file-stub
+        classname="icon"
+      />
+      <h1
+        class="title"
+      >
+        <span>
+          This is CSC 59939!
+        </span>
+      </h1>
+      <p
+        class="description"
+      >
+        Get started by editing 
+        <code
+          class="code"
+        >
+          pages/index.js
+        </code>
+      </p>
+      <button
+        class="button"
+      >
+        Click Me To Toggle
+      </button>
+    </main>
+    <div
+      class="swiper-container swiper-container-initialized swiper-container-horizontal tiles"
+    >
+      <div
+        class="swiper-button-prev"
+      />
+      <div
+        class="swiper-button-next"
+      />
+      <div
+        class="swiper-wrapper"
+        style="transition-duration: 0ms; transform: translate3d(NaNpx, 0px, 0px);"
+      >
+        <div
+          class="swiper-slide"
+        >
+          <a
+            class="card"
+            href="https://nextjs.org/docs"
+          >
+            <h3>
+              Documentation →
+            </h3>
+            <p>
+              Find in-depth information about Next.js features and API.
+            </p>
+          </a>
+        </div>
+        <div
+          class="swiper-slide"
+        >
+          <a
+            class="card"
+            href="https://nextjs.org/learn"
+          >
+            <h3>
+              Learn →
+            </h3>
+            <p>
+              Learn about Next.js in an interactive course with quizzes!
+            </p>
+          </a>
+        </div>
+        <div
+          class="swiper-slide"
+        >
+          <a
+            class="card"
+            href="https://github.com/vercel/next.js/tree/master/examples"
+          >
+            <h3>
+              Examples →
+            </h3>
+            <p>
+              Discover and deploy boilerplate example Next.js projects.
+            </p>
+          </a>
+        </div>
+        <div
+          class="swiper-slide"
+        >
+          <a
+            class="card"
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          >
+            <h3>
+              Deploy →
+            </h3>
+            <p>
+              Instantly deploy your Next.js site to a public URL with Vercel.
+            </p>
+          </a>
+        </div>
+      </div>
+    </div>
+    <footer
+      class="footer"
+    >
+      <a
+        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Powered by 
+        <img
+          alt="Vercel Logo"
+          class="logo"
+          src="/vercel.svg"
+        />
+      </a>
+    </footer>
+  </div>
+</DocumentFragment>
+`;
